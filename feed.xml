@@ -1,40 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Your awesome title</title>
-    <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
+    <title>Max In Business</title>
+    <description>Follow my entrepreneurial journey.
 </description>
     <link>http://yourdomain.com/</link>
     <atom:link href="http://yourdomain.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 10 Apr 2016 12:57:22 +0200</pubDate>
-    <lastBuildDate>Sun, 10 Apr 2016 12:57:22 +0200</lastBuildDate>
+    <pubDate>Sun, 10 Apr 2016 13:29:16 +0200</pubDate>
+    <lastBuildDate>Sun, 10 Apr 2016 13:29:16 +0200</lastBuildDate>
     <generator>Jekyll v3.1.2</generator>
     
       <item>
-        <title>Welcome to Jekyll!</title>
-        <description>&lt;p&gt;You’ll find this post in your &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+        <title>Giving Idea Extraction a try</title>
+        <description>&lt;p&gt;Inspired by my recent re-discovery of &lt;a href=&quot;https://thefoundation.com&quot;&gt;the Foundation&lt;/a&gt; by Dane Maxwell I picked myself up to start over. A critical part of the Foundation’s philosophy is the idea extraction process during which one gets to know the unsatisfied needs of a potential customer base. Based on that ideas form, products take shape and value is created for everyone involved – in theory, anyway.&lt;/p&gt;
 
-&lt;p&gt;To add new posts, simply add a file in the &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code class=&quot;highlighter-rouge&quot;&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
+&lt;p&gt;It’s easy to come up with a vague idea based on some half hearted observation or any other unreliable inspiration. Action taking entrepreneurs go straight to work on it and after a week or two the project is dead. Do this over and over and you’ll feel like the biggest loser in history. Sadly, I write from experience.&lt;/p&gt;
 
-&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
+&lt;p&gt;Therein lays the attraction of the Foundation’s approach to finding ideas. By the time one comes up with one it’s already verified by the potential customer. No more guessing, no more self doubt, no more vagueness and perhaps even pre-sales funding the project before any concrete action has been taken. One doesn’t have to be a member of the Foundation, which I’m not, to appreciate that concept.&lt;/p&gt;
 
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
-&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
-&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&#39;Tom&#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints &#39;Hi, Tom&#39; to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+&lt;h3&gt;Let’s get to work&lt;/h3&gt;
 
-&lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;I decided to give the whole process a try and worked out an experimental strategy to see if this approach is right for me. If successful at least one solid idea is born.&lt;/p&gt;
 
+&lt;p&gt;The all important first step is to find an industry. I quickly stopped digging the web for industry reports, trends, etc. A healthy guess and some key figures (e.g. &lt;a href=&quot;http://www.ibisworld.com/&quot;&gt;IBISWorld&lt;/a&gt;) will have to suffice for now. Otherwise I’d probably get lost before I even left the ground.&lt;/p&gt;
+
+&lt;p&gt;I’ll also drop the thought of choosing multiple industries. For the sake of this experiment one will do. At this point speedy progress and learning the process is more important than ultimate success.&lt;/p&gt;
+
+&lt;p&gt;In step two I’ll find all the major corner stones of information regarding the industry. Industry associations, magazines, forums, influential blogs, etc. are the main targets. From that I hope to gain lists of individual businesses in the industry and get to know the whole industry from a high level perspective.&lt;/p&gt;
+
+&lt;p&gt;Next up will be the consolidation of actual contacts. This will be the all important list of people I’ll contact through email and cold-calls. I don’t have an actual strategy on how to do that, yet. It’s probably something I’ll have to learn along the way.&lt;/p&gt;
+
+&lt;p&gt;What follows is make or break time. Contacting these total strangers and pick their brains. To me this might be the biggest learning experience during this experiment. Overcoming that intense emotional roller coaster when cold calling other people and finding ways to get what I want.&lt;/p&gt;
+
+&lt;h3&gt;Follow me&lt;/h3&gt;
+
+&lt;p&gt;I chose to make this whole process as transparent as possible. By doing so I hope to provide value to anyone looking into the concept of idea extraction themselves.&lt;/p&gt;
+
+&lt;p&gt;To stay tuned, please follow me on &lt;a href=&quot;https://twitter.com/mfischer767&quot;&gt;Twitter&lt;/a&gt;, &lt;a href=&quot;https://www.facebook.com/profile.php?id=100011712550971&quot;&gt;Facebook&lt;/a&gt;, &lt;a href=&quot;https://plus.google.com/u/0/106621491299094082108&quot;&gt;Google+&lt;/a&gt;, &lt;a href=&quot;https://www.youtube.com/channel/UCCFqEqi43jM8uS0fzKwFzRQ&quot;&gt;Youtube&lt;/a&gt; and subscribe to this blogs &lt;a href=&quot;/feed.xml&quot;&gt;Feed&lt;/a&gt;.&lt;/p&gt;
 </description>
-        <pubDate>Sun, 10 Apr 2016 12:56:57 +0200</pubDate>
-        <link>http://yourdomain.com/jekyll/update/2016/04/10/welcome-to-jekyll.html</link>
-        <guid isPermaLink="true">http://yourdomain.com/jekyll/update/2016/04/10/welcome-to-jekyll.html</guid>
+        <pubDate>Sun, 10 Apr 2016 00:00:00 +0200</pubDate>
+        <link>http://yourdomain.com/giving-idea-extraction-a-try.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/giving-idea-extraction-a-try.html</guid>
         
-        
-        <category>jekyll</category>
-        
-        <category>update</category>
         
       </item>
     
